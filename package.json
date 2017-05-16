@@ -1,0 +1,29 @@
+{
+  "name": "robotjs",
+  "version": "1.0.0",
+  "description": "key words testing robot",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keywords",
+    "testing",
+    "nodejs",
+    "robotframework"
+  ],
+  "author": "helibb",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "co": "^4.6.0",
+    "config": "^1.26.1",
+    "log4js": "^1.1.1",
+    "readline": "^1.3.0",
+    "superagent": "^3.5.2",
+    "util": "^0.10.3"
+  }
+}
